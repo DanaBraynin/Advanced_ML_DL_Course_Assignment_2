@@ -4,7 +4,7 @@
 
 In this project, we were given a dataset containing the scripts of all Seinfeld and Friends episodes.<br>
 We were asked to create a deep learning model that could identify whether a line was taken from a Seinfeld episode or from a Friends episode.<br>
-This project is a Natural Language Processing (NLP) task. We were given 70,405  observations. We analyzed the given data, process it and classify the samples in the test data.
+This project is a Natural Language Processing (NLP) task. We were given 70,405  observations. We analyzed the given data, processed it and classified the samples in the test data.
 
 We achieved a test score of ?????? using Keras Neural Network.
 
