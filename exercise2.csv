@@ -1,0 +1,2 @@
+,Our test set accuracy,Our train set accuracy,Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Choice of loss function,Choice of optimizer,Embedding dimension
+0,0.8621907830238342,0.8823719024658203,673777,8,"l1 Kernel Regularizer, Dropout",5,binary_crossentropy,adam,32
