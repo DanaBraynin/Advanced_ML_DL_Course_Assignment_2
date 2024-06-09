@@ -1,4 +1,4 @@
-# Advanced_ML_DL_Course_Assignment_2
+# Advanced_ML_DL_Course_Assignment_TV_Show_NLP_Classifier
 
 **By: Raz Graider, Sophie Margolis, Ran Asanta and Dana Braynin**
 
